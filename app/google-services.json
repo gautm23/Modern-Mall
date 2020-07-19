@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "429981601200",
+    "firebase_url": "https://modernmall.firebaseio.com",
+    "project_id": "modernmall",
+    "storage_bucket": "modernmall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429981601200:android:0fe2fccb360c60d1221a75",
+        "android_client_info": {
+          "package_name": "com.example.modernmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429981601200-ss42d4vddlv2pofmouftqlf2135vbdt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.modernmall",
+            "certificate_hash": "edbc9279d47b00e9849c1864d3547a5c8dd46c6d"
+          }
+        },
+        {
+          "client_id": "429981601200-spmr229ruapls9fs5p0dq9pot4m7pjk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAOr-337OIl9P7usEYWwzWhQRDg1s_ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429981601200-spmr229ruapls9fs5p0dq9pot4m7pjk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
